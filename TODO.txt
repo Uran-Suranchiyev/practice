@@ -1,0 +1,19 @@
+TODO
+ connect to exsisting repository and push this file
+
+ Create new repository 
+ Push new file by own branch
+ merge with master branch
+ change file in two branch 
+ save changes in both branches  by terminal
+
+ colloborate with Majid 
+ change file and pull request
+
+ Html practice
+
+ task 1 
+ make visualization website
+ 
+ task 2
+ copy jut.su website and change name
